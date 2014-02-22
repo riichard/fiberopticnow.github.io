@@ -7,12 +7,12 @@ permalink:	/blog/:title
 
 # Setup
 title:		Thinny
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+tagline:	Fiber Optic Now
+description:	'Fiber Optic Now'
+url:		http://fiberopticnow.github.io
 
 author:
-  name:		'Ian Camporez Brunelli'
+  name:		'Katie Williams, M.Ed.'
   url:		https://google.com/+IanCamporezBrunelli
 
 paginate:	5
@@ -23,30 +23,30 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/fiberopticnow
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/fiberopticnow
     desc:	Fork me on github
 
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
+  - icon:	linkedin-alt
+    url:	https://nl.linkedin.com/in/fiberopticnow/
+    desc:	Add me on LinkedIn
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://fiberopticnow.github.io/atom.xml
     desc:	Subscribe to my feed
     
 menu:
   - title:	Home
-    url:	http://camporez.com
+    url:	http://fiberopticnow.github.io
     
   - title:	About
-    url:	http://camporez.com/about
+    url:	http://fiberopticnow.github.io/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Katie Williams
+  url:		http://fiberopticnow.github.io
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
