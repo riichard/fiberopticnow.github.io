@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Digital Etiquette: How to Keep it Profesh Online"
-quote: The fine art of tagging, checking in, and whether or not to put your phone down during dinner.
-image: ../../media/triangles.jpg
+quote: Digital reciprocity is the new professionalism
+image: ../../media/triangles2.jpg
 dark: true
 video: false
 ---
 
-<em>My mom is an excellent school teacher on the verge of retirement. I bought her an iPad as a Mother's Day gift in 2010 to which she sighed, "What on earth am I going to do with one of _these_ things?" Since then, her digital capabilities have drastically increased. In fact, just the other day she said, "You know, none of my friends on Facebook commented on my new pictures. I just can't believe it!" Given this example, one can see that even baby-blooming late adopters to the digital revolution inherently understand the underlying etiquette in online communications. In today's high-tech world, it is vital to maintain an online presence, and behave it a way that adds value to others, and to yourself. </em>
+<em>My mom is an excellent school teacher on the verge of retirement. I bought her an iPad as a Mother's Day gift in 2010 to which she sighed, "What on earth am I going to do with one of _these_ things?" Since then, her digital capabilities have drastically increased. In fact, just the other day she said, "You know, none of my friends on Facebook commented on my new pictures. I just can't believe it!" Given this example, one can see that even baby-blooming late adopters to the digital revolution inherently understand the underlying etiquette subtly present in online communications. In today's high-tech world, it is vital to maintain an online presence, and behave it a way that adds value to others, and to yourself. </em>
+
+{% include image.html url="/CODE/blog/" width="100%" description="Image captions are supported out of the box. Brilliant!" %}
 
 
 ## Consider your online identity is an extension of your self
@@ -21,6 +23,8 @@ Therefore, consider your online identity as much _you_ as your in-person self, o
 Cultivating your personal brand presence online gives you a unique advantage as opposed to in-person communications. With online profiles, you have the unique advantage of editing your content, and strategically planning your personal brand.
 
 Your online identity is crucial not only as a job-seeker, but also for high-up managers in organizations. Believe it or not, your Twitter follower count reflects more about you than you may think You _are_ your own personal brand, and every action you take online speaks to your brand image. What social profiles do you use? What frequency of posts can your followers expect? How do you engage with your followers, and friends? 
+
+{% include image.html url="/CODE/blog/relevant_content.png" width="100%" description="Digital Etiquette Meme 1" %}
 
 - Communicate your passions, and expertise
 
