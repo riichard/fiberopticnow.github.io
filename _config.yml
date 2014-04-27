@@ -6,7 +6,7 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Fiber Optic Now
 tagline:	Fiber Optic Now
 description:	'Fiber Optic Now'
 url:		http://fiberopticnow.github.io
