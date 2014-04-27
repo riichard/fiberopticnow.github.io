@@ -4,13 +4,48 @@
  <title>Thinny</title>
  <link href="http://fiberopticnow.github.io/atom.xml" rel="self"/>
  <link href="http://fiberopticnow.github.io/"/>
- <updated>2014-02-22T20:21:06+01:00</updated>
+ <updated>2014-02-22T22:41:21+01:00</updated>
  <id>http://fiberopticnow.github.io</id>
  <author>
    <name>Katie Williams, M.Ed.</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Digital Etiquette: How to Keep it Profesh Online</title>
+   <link href="http://fiberopticnow.github.io/blog/digitaletiquette"/>
+   <updated>2014-02-22T00:00:00+01:00</updated>
+   <id>http://fiberopticnow.github.io/blog/digitaletiquette</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;My mom is 64. She&amp;#39;s an excellent school teacher who is on the verge of retirement. I bought her an I-Pad in 2010 to which she sighed, &amp;quot;What on earth am I going to do with one of these things?&amp;quot; Since then, her digital knowledge has increased drastically. In fact, just the other day she said, &amp;quot;You know, none of my friends on Facebook commented on my new pictures. I just can&amp;#39;t believe it!&amp;quot; And, I couldn&amp;#39;t believe it either. My mom is a late adopter to tech, and yet she totally gets it. The fact that her friends didn&amp;#39;t comment on her new photos was inherently perceived as a sign of disrespect. And, the thing is, it kind of is...&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Consider your online identity is an extension of your self&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Personal branding and shameless self-promotion&lt;/li&gt;
+&lt;li&gt;Communicate your passions, and expertise&lt;/li&gt;
+&lt;li&gt;Make connections based on interest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Online etiquette &lt;em&gt;is&lt;/em&gt; digital reciprocity&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make meaningful connections&lt;/li&gt;
+&lt;li&gt;Cultivate your online credibility&lt;/li&gt;
+&lt;li&gt;Connect others&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Quick tips for cultivating a professional online presence&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tag others&lt;/li&gt;
+&lt;li&gt;Cite appropriately&lt;/li&gt;
+&lt;li&gt;Check in your friends&lt;/li&gt;
+&lt;li&gt;Encourage guest blogging&lt;/li&gt;
+&lt;li&gt;Remember that your posts are powerful, and public&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Thinny 2: a Jekyll theme</title>
