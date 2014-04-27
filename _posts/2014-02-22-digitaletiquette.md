@@ -16,7 +16,7 @@ If you have an uncultivated, or uncouth online profile, it will reflect negative
 
 Therefore, consider your online identity as much _you_ as your in-person self, or maybe even moreso.  
 
-- Personal branding allows you to manage how others perceive you
+## Personal branding allows you to manage how others perceive you
 
 Cultivating your personal brand presence online gives you a unique advantage as opposed to in-person communications. With online profiles, you have the unique advantage of editing your content, and strategically planning your personal brand.
 
@@ -24,13 +24,13 @@ Your online identity is crucial not only as a job-seeker, but also for high-up m
 
 {% include image.html url="/media/relevant_content.png" width="100%" description="Are you sharing meaningful content to your various audiences? Remember, relevance is key." %}
 
-- Communicate your passions, and expertise
+## Communicate your passions, and expertise
 
 Blogs, and social networking sites allow you to show others what you're passionate about. Communicating in the online sphere also allows you to show your expertise in various fields. It may not be easy, but it is definitely worth it to try to climb the social ladder of the web. Go ahead and check your Klout score to see how you're doing.
 
 {% include image.html url="/media/manage_perceptions.png" width="100%" description="Are you sharing meaningful content to your various audiences? Remember, relevance is key." %}
 
-- Make connections based on interest
+## Make connections based on interest
 
 One of the greatest advantages of social is the ability to connect with others. Sure, we're all connected to friends and family on platforms like Facebook, but are you also using Twitter, and LinkedIn on a daily basis? These platforms allow you to connect with people that you may not know in real life. Now, that might sound a bit creepy to some, but digital natives know that this is where the true gold lies. Twitter, for example, gives you the opportunity to follow thought leaders in your spheres of interest, and LinkedIn will allow you to find friends of friends who may prove pivotal in helping you to land your next big gig. 
 
