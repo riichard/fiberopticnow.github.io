@@ -24,7 +24,7 @@ Cultivating your personal brand presence online gives you a unique advantage as 
 
 Your online identity is crucial not only as a job-seeker, but also for high-up managers in organizations. Believe it or not, your Twitter follower count reflects more about you than you may think You _are_ your own personal brand, and every action you take online speaks to your brand image. What social profiles do you use? What frequency of posts can your followers expect? How do you engage with your followers, and friends? 
 
-{% include image.html url="/CODE/blog/relevant_content.png" width="100%" description="Digital Etiquette Meme 1" %}
+{% include image.html url="/media/relevant_content.png" width="100%" description="Digital Etiquette Meme 1" %}
 
 - Communicate your passions, and expertise
 
