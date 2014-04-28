@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital reciprocity is the ultimate show of online etiquette"
+title: "Digital reciprocity is the new etiquette"
 quote: When to check-in, tweet, tag, and whether or not to text during dinner.
 image: ../../media/cover.jpg
 dark: true
