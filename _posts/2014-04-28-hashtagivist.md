@@ -14,6 +14,8 @@ video: false
 
 The Kings of Code Hack Battle at The Next Web European Conference brought together over 30 teams of programmers, and designers to "hack" for 30 hours on new and inventive ideas. The API partners for this year included Spotify, SendGrid, Deezer, Twitter, Pearson, Spotify, Mashery, Verisign, Paypal, and Push.co. We decided to use the Twitter Streaming API, as well as the Paypal API for donations.
 
+<iframe src="//instagram.com/p/nI5THIF-hx/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
 <strong>As one of a handful of female participants, I felt even more passionate about pursuing our activist hack after being asked strangely discriminatory questions like:</strong>
 
 - "Are you hacking?"
@@ -41,7 +43,9 @@ Users can search the site by topic (more topics to come!), and receive email ale
 
 ##Twitter API Winners
 
-We were stoked to win the Twitter API prize at the Hack Battle for our work on Hashtagivist.
+We were stoked to win the Twitter API prize at the Hack Battle for our work on Hashtagivist! We're so enthused that Twitter liked our integration of their streaming API, as well as our idea to broaden the audience for social justice hashtag campaigns on Twitter.
+
+<iframe src="//instagram.com/p/nP8XPmKE82/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 ##We'd love to hear your thoughts!
 
