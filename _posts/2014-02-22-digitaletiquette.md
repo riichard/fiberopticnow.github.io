@@ -14,6 +14,8 @@ video: false
 
 Depending on where you live, there are various social customs that are considered polite, or impolite. Take the southern states in the U.S., for example, where holding the door open is a chivalrous symbol of good manners. In the same vein, failing to follow online etiquette can be perceived as a virtual door-slam in the face.  So, consider your online identity as much _you_ as your in-person self, or maybe even moreso, because your digital fingerprint is in many ways eternal. If you don't hold the door open for someone at a local restaurant, you've only snubbed one person's feelings, with only a few bystanders noticing your uncouth act. However, if you fail to act appropriately online, you've now put your foot in your mouth in front of an audience of thousands, or even millions. Take this sobering tale as an example:
 
+##Online communications should be well thought-out, and incredibly polished.
+
 Justine Sacco, a PR Director at InterActiveCorp, only had about 200 Twitter followers when she boarded a plane in London headed to South Africa in late 2013. Just before taking off, Ms. Sacco posted this infuriatingly offensive tweet:
 
 {% include image.html url="/media/justine.png" width="100%" description="Can you believe she was a PR Director? Faux-pas to the extreme." %}
@@ -36,12 +38,12 @@ Remember, it's important to showcase relevant content for your audiences. You ca
 
 Blogs, and social networking sites allow you to show others what you're passionate about. Communicating in the online sphere also allows you to show your expertise in various fields. It may not be easy, but it is definitely worth it to try to climb the social ladder of the web. Go ahead and check your Klout score to see how you're doing, and then plan some goals for the upcoming quarter.
 
-Here's some easy examples:
-1. Increase my Twitter follower count by 300.
-2. Write 1 blog post per week.
-3. Increase my Facebook engagement 
+<strong>Here's some easy examples:</strong>
+-1. Increase my Twitter follower count by 300.
+-2. Write 1 blog post per week.
+-3. Increase my Facebook engagement 
 
-{% include image.html url="/media/manage_perceptions.png" width="100%" description="Are you sharing meaningful content to your various audiences? Remember, relevance is key." %}
+{% include image.html url="/media/manage_perceptions.png" width="100%" description="Do you want to be a thought-leader in technology, for example? Then, start pushing awesome tech content to show the world your expertise!" %}
 
 ## Make connections based on interest
 
