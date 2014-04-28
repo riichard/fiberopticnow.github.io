@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Digital reciprocity is the ultimate show of online etiquette"
-quote: When to check-in, tweet, tag, and whether or not to text during dinner.
-image: ../../media/cover.jpg
+title: "Hashtagivist: The Hashtag Activism Platform"
+quote: Find hashtag campaigns for social justice & get alerts for new campaigns.
+image: ../../media/equality.jpg
 dark: true
 video: false
 ---
