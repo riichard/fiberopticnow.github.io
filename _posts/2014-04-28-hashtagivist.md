@@ -39,6 +39,8 @@ Users can search the site by topic (more topics to come!), and receive email ale
 
 ##Watch our Pitch at The Next Web Hack Battle 2014
 
+In case the web player doesn't load properly, our pitch starts at 1:26:00.
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/J6l-qp6gJIk" frameborder="0" allowfullscreen></iframe>
 
 ##Twitter API Winners
