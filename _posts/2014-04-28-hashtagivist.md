@@ -23,7 +23,7 @@ The Kings of Code Hack Battle at The Next Web European Conference brought togeth
 - "Are you both working on this hack together??"
 - "I read your article for The Next Web Shift. Nice work. Is that how you got in here?"
 
-Needless to say, women are still facing some serious stereotypes in the tech field, and it's really up to all of us to work to shattering those stereotypes, and showing more respect to women and minorities in general.
+Needless to say, women are still facing some serious stereotypes in the tech field, and it's really up to all of us to work to shattering those stereotypes so that future hackathons will be much more diverse.
 
 ##Our Hack: Hashtagivist
 
