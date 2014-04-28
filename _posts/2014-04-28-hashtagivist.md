@@ -35,6 +35,14 @@ Users can search the site by topic (more topics to come!), and receive email ale
 
 {% include image.html url="/media/hashtagivist2.png" width="100%" description="Browse campaigns by topic, and take action!" %}
 
+##Watch our Pitch
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/J6l-qp6gJIk" frameborder="0" allowfullscreen></iframe>
+
+##Twitter API Winners
+
+We were stoked to win the Twitter API prize at the Hack Battle for our work on Hashtagivist.
+
 ##We'd love to hear your thoughts!
 
 Although this started out as a fun hack for a hackathon, we feel that this site may be beneficial to actual hashtag activists on Twitter, including non-profits, organizations, and individual activists. Please let us know what you think of our site in the comments below, and please give us feedback. This platform was built for you, so we'd love to optimize it based on your needs. Thanks!
