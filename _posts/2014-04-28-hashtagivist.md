@@ -7,7 +7,7 @@ dark: true
 video: false
 ---
 
-<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web European Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist ["Tit staring app"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925) from TechCrunch Disrupt last year. It's about time that we change the "dude" culture of programming into a progressive group that builds apps for social change.  </em>
+<em>When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist ["Tit staring app"](http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925) from TechCrunch Disrupt last year. It's about time that we change the "dude" culture of programming into a progressive group that builds apps for social change.  </em>
 
 
 ## The Kings of Code
@@ -18,7 +18,7 @@ The Kings of Code Hack Battle at The Next Web European Conference brought togeth
 
 <strong>As one of a handful of female participants, I felt even more passionate about pursuing our activist hack after being asked strangely discriminatory questions like:</strong>
 
-- "Are you hacking?"
+- "Are you hacking??"
 - "Oh, are you the designer?"
 - "Are you both working on this hack together??"
 - "I read your article for The Next Web Shift. Nice work. Is that how you got in here?"
@@ -27,7 +27,7 @@ Needless to say, women are still facing some serious stereotypes in the tech fie
 
 ##Our Hack: Hashtagivist
 
-[Hashtagivist](http://www.hashtagivist.com) stands for "Hashtag Activist" was inspired by the amazing work of [Suey Park](https://twitter.com/suey_park), [Mikki Kendall](https://twitter.com/Karnythia), and other proponents for social change and equality on Twitter. 
+[Hashtagivist](http://www.hashtagivist.com) stands for "Hashtag Activist" was inspired by the amazing work of [Suey Park](https://twitter.com/suey_park),  [Mikki Kendall](https://twitter.com/Karnythia), and other proponents for social change and equality on Twitter. 
 
 There are so many of us that believe in equality, and want to lobby for social change, but either aren't that well-versed with Twitter, or have trouble finding hashtag campaigns. For me, I'd always catch campaigns after-the-fact via a blog post, and think to myself, "Gee, I wish I had seen that on Twitter when it was happening. I would have definitely retweeted, or taken action in some way."
 
@@ -37,19 +37,19 @@ Users can search the site by topic (more topics to come!), and receive email ale
 
 {% include image.html url="/media/hashtagivist2.png" width="100%" description="Browse campaigns by topic, and take action!" %}
 
-##Watch our Pitch
+##Watch our Pitch at The Next Web Hack Battle 2014
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/J6l-qp6gJIk" frameborder="0" allowfullscreen></iframe>
 
 ##Twitter API Winners
 
-We were stoked to win the Twitter API prize at the Hack Battle for our work on Hashtagivist! We're so enthused that Twitter liked our integration of their streaming API, as well as our idea to broaden the audience for social justice hashtag campaigns on Twitter.
+We were stoked to win the Twitter API prize at The Next Web Hack Battle for our work on Hashtagivist! We're so enthused that Twitter liked our integration of their streaming API, as well as our idea to broaden the audience for social justice hashtag campaigns on Twitter.
 
 <iframe src="//instagram.com/p/nP8XPmKE82/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
 ##We'd love to hear your thoughts!
 
-Although this started out as a fun hack for a hackathon, we feel that this site may be beneficial to actual hashtag activists on Twitter, including non-profits, organizations, and individual activists. Please let us know what you think of our site in the comments below, and please give us feedback. This platform was built for you, so we'd love to optimize it based on your needs. Thanks!
+Although this started out as a fun hack for a hackathon, we feel that this site may be beneficial to hashtag activists on Twitter, including non-profits, organizations, and individual activists. Please let us know what you think of our site in the comments below, and please give us feedback. This platform was built for you, so we'd love to optimize it based on your needs. Thanks!
 
 
 
