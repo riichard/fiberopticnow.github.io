@@ -16,10 +16,10 @@ The Kings of Code Hack Battle at The Next Web European Conference brought togeth
 
 <strong>As one of a handful of female participants, I felt even more passionate about pursuing our activist hack after being asked strangely discriminatory questions like:</strong>
 
--"Are you hacking?"
--"Oh, are you the designer?"
--"Are you both working on this hack together??"
--"I read your article for The Next Web Shift. Nice work. Is that how you got in here?"
+- "Are you hacking?"
+- "Oh, are you the designer?"
+- "Are you both working on this hack together??"
+- "I read your article for The Next Web Shift. Nice work. Is that how you got in here?"
 
 Needless to say, women are still facing some serious stereotypes in the tech field, and it's really up to all of us to work to shattering those stereotypes, and showing more respect to women and minorities in general.
 
