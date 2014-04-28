@@ -51,7 +51,7 @@ One of the greatest advantages of social is the ability to connect with others. 
 
 ## How to show respect online
 
-One of the hottest topics amongst my friends is whether or not it's ok to text during dinner. Obviously, this is a very heated debate, but my opinion is that it is indeed ok to use your mobile device during a dinner, or event. In fact, I think it's really respectful to do so. If I'm hanging out with a group of friends at a restaurant, my first thought is to use Foursquare to check everyone in. Then, I'm going to want to take a group selfie, and post it on Twitter, and also mentioning my friends who are on Twitter. If I'm having a really great time, I might even throw in an Instagram pic, or Vine for good measure. Nothing says, "You have my seal of approval" better than being proud to mention someone in your digital feeds.
+One of the hottest topics amongst my friends is whether or not it's ok to text during dinner. Obviously, this is a very heated debate, but my opinion is that it is indeed ok to use your mobile device during a dinner, or event. In fact, I think it's really respectful to do so. If I'm hanging out with a group of friends at a restaurant, my first thought is to use Foursquare to check everyone in. Then, I'm going to want to take a group selfie, and post it on Twitter, and also mention my friends who are on Twitter. If I'm having a really great time, I might even throw in an Instagram pic, or Vine for good measure. Nothing says, "You have my seal of approval" better than being proud to mention someone in your digital feeds.
 
 {% include image.html url="/media/selfies.png" width="100%" description="Cross branding happens when you tag yourself with friends, or other thought leaders in your field." %}
 
