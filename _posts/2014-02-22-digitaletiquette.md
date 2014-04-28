@@ -2,7 +2,7 @@
 layout: post
 title: "Digital reciprocity in the age of online etiquette"
 quote: When to check-in, tweet, tag, and whether or not to text during dinner.
-image: ../../media/triangles2.jpg
+image: ../../media/cover.jpg
 dark: true
 video: false
 ---
