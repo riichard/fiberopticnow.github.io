@@ -6,7 +6,7 @@ dark: true
 video: false
 ---
 
-<em>I gave my mother an iPad for Mothers Day a few years ago to which she sighed, "What on earth am I going to do with one of _these_ things?" Since then, her digital capabilities have drastically increased. In fact, just the other day she exclaimed, "You know, none of my friends on Facebook commented on my new pictures. I just can't believe it!" Given this example, one can see that even baby-blooming late adopters to the digital revolution inherently understand the underlying etiquette subtly present in online communications. And, liking your friends' Facebook posts is just the tip of the iceberg. In today's high-tech world, it is vital to maintain an online presence, and take actions that add value to others, and to yourself. </em>
+<em>I gave my mother an iPad for Mothers Day a few years ago to which she sighed, "What on earth am I going to do with one of _these_ things?" Since then, her digital capabilities have drastically increased. In fact, just the other day she exclaimed, "You know, none of my friends on Facebook commented on my new pictures. I just can't believe it!" Given this example, one can see that even baby-blooming late adopters to the digital revolution inherently understand the underlying etiquette subtly present in online communications. And, liking your friends' Facebook posts is just the tip of the iceberg. In today's high-tech world, it is vital to maintain an online presence, and take actions that add value to others, and to yourself. Afterall, as my now tech-savvy mom says, "Good manners work everywhere...even in cyberspace."</em>
 
 
 ## Consider your online identity as an extension of your self
