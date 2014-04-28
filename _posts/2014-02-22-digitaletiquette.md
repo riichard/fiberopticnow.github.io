@@ -16,7 +16,7 @@ Depending on where you live, there are various social customs that are considere
 
 Justine Sacco, a PR Director at InterActiveCorp, only had about 200 Twitter followers when she boarded a plane in London headed to South Africa in late 2013. Just before taking off, Ms. Sacco posted this infuriatingly offensive tweet:
 
-{% include image.html url="/media/justine.png" width="100%" description="Are you sharing meaningful content to your various audiences? Remember, relevance is key." %}
+{% include image.html url="/media/justine.png" width="100%" description="Can you believe she was a PR Director? Faux-pas to the extreme." %}
 
 During her 11-hour flight, Ms. Sacco was oblivious to the number of responses she received to her racist tweet. Soon the hashtag #HasJustineLandedYet became a _worldwide trend_ on Twitter, as major news organizations like The New York Times, and CNN picked up the story. Justine Sacco's name was tweeted more than 30,000 times, and the hashtag #HasJustineLandedYet was tweeted more than 100,000 times. 
 
