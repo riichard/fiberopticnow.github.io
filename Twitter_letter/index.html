@@ -236,14 +236,14 @@ a {
                     <br />
 
                     I am a true believer in the power of Twitter to unite individuals with similar<br />
-                    passions in real-time conversations. That's why I <a href="http://fiberopticnow.github.io/blog/hashtagivist" target="_blank" onclick="return false;">created a platform </a><br />
+                    passions in real-time conversations. That's why I <a href="http://fiberopticnow.github.io/blog/hashtagivist" target="_blank">created a platform </a><br />
                     that highlights diverse perspectives, which won the Twitter API prize at The Next Web Hack Battle.  <br />
                     <br />
 
                     As a part of your team, I will work hard to build trust with your Dutch userbase, <br />
                     and create communications plans that are thorough, and measurable.  I'd love to  <br />
                     bring my diverse skill set to the table, as well as my creative, and strategic mindset. <br />
-                    <a href = "http://blog.hashtagify.me/2014/01/21/personal-branding-101-how-to-use-hashtags-to-become-a-top-twitter-influencer/" target="_blank" onclick="return false;">Check out </a> my blog post, which won first place in the Hashtagify $4,000 Blogging<br />
+                    <a href = "http://blog.hashtagify.me/2014/01/21/personal-branding-101-how-to-use-hashtags-to-become-a-top-twitter-influencer/" target="_blank">Check out </a> my blog post, which won first place in the Hashtagify $4,000 Blogging<br />
                     Contest on personal branding using Twitter. <br />
                     <br/ >
                     
@@ -252,8 +252,8 @@ a {
                 
                    <br />
                     Kind regards, <br />
-                    <a href="http://nl.linkedin.com/in/fiberopticnow/" target="_blank" onclick="return false;">Katie Williams, M.Ed.</a><br />
-                    <a href="http://www.twitter.com/fiberopticnow" target="_blank" onclick="return false;">@fiberopticnow</a> <br />
+                    <a href="http://nl.linkedin.com/in/fiberopticnow/" target="_blank">Katie Williams, M.Ed.</a><br />
+                    <a href="http://www.twitter.com/fiberopticnow" target="_blank">@fiberopticnow</a> <br />
                   
                 </div>
             </div>
@@ -330,7 +330,8 @@ a {
                     },2000)
                 }, 1000)
             }
-            $("#container").bind("click", function(){
+            $("#container").bind("click", function(e){
+                if(e.target.nodeName == "A") return
                 if(opened==false){ open(); } else { close() }
             })
             move({ "y" : 20, "x":4, "z":-100})
