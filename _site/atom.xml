@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Thinny</title>
+ <title>Fiber Optic Now</title>
  <link href="http://fiberopticnow.github.io/atom.xml" rel="self"/>
  <link href="http://fiberopticnow.github.io/"/>
- <updated>2014-02-22T22:41:21+01:00</updated>
+ <updated>2014-10-18T11:56:45+02:00</updated>
  <id>http://fiberopticnow.github.io</id>
  <author>
    <name>Katie Williams, M.Ed.</name>
@@ -13,301 +13,215 @@
 
  
  <entry>
-   <title>Digital Etiquette: How to Keep it Profesh Online</title>
-   <link href="http://fiberopticnow.github.io/blog/digitaletiquette"/>
-   <updated>2014-02-22T00:00:00+01:00</updated>
-   <id>http://fiberopticnow.github.io/blog/digitaletiquette</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;My mom is 64. She&amp;#39;s an excellent school teacher who is on the verge of retirement. I bought her an I-Pad in 2010 to which she sighed, &amp;quot;What on earth am I going to do with one of these things?&amp;quot; Since then, her digital knowledge has increased drastically. In fact, just the other day she said, &amp;quot;You know, none of my friends on Facebook commented on my new pictures. I just can&amp;#39;t believe it!&amp;quot; And, I couldn&amp;#39;t believe it either. My mom is a late adopter to tech, and yet she totally gets it. The fact that her friends didn&amp;#39;t comment on her new photos was inherently perceived as a sign of disrespect. And, the thing is, it kind of is...&lt;/em&gt;&lt;/p&gt;
+   <title>Code Week EU at the International School of Amsterdam</title>
+   <link href="http://fiberopticnow.github.io/blog/inspired-by-tech"/>
+   <updated>2014-10-15T00:00:00+02:00</updated>
+   <id>http://fiberopticnow.github.io/blog/inspired-by-tech</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This week is Code Week EU, and schools, and organizations across Europe are now hosting events to get more people interested in coding. I organized an event at the International School of Amsterdam with lightening talks from Amsterdam&amp;#39;s coolest programmers, marketeers, graphic designers, and more! &lt;/em&gt;&lt;/p&gt;
 
-&lt;h2&gt;Consider your online identity is an extension of your self&lt;/h2&gt;
+&lt;h2&gt;Get Inspired By Tech&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Personal branding and shameless self-promotion&lt;/li&gt;
-&lt;li&gt;Communicate your passions, and expertise&lt;/li&gt;
-&lt;li&gt;Make connections based on interest&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Code Week EU events are hosted in schools all across Europe during the week of October 13-17. I knew I wanted to host an event at the International School of Amsterdam, but wanted to make sure that the 6th grade students understood the big picture before diving into actual coding. Thus, I invited mentors from all different branches of tech to come and give short lightening talks to the students. Our 100 6th graders were split into small groups of 7, which rotated every 10 minutes to a new table, and a new mentor. The purpose of our Code Week EU event was to get kids inspired by tech by passionate people, and we definitely achieved our goal! Students were engaged, and enthralled by presentations ranging from online security, to advertising.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;/media/codeweekposter.jpg&quot; alt=&quot;Poster for EU Code Week by the amazing &lt;a href=&#39;http://www.twitter.com/byWFG&#39;&gt;Wouter Goedkoop&lt;/a&gt;&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Poster for EU Code Week by the amazing &lt;a href=&#39;http://www.twitter.com/byWFG&#39;&gt;Wouter Goedkoop&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h2&gt;Lightening Talks By Tech Mentors&lt;/h2&gt;
+
+&lt;p&gt;An astonishing 14 mentors volunteered at this event who spoke on the topics of graphic design, social media, marketing, business development, programming, hardware, online security, and entrepreneurship. &lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; @EUCodeWeek #EUCodeWeek #codeweek mentors at the International School #edtech #code #coding #tech&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uLOkOrl-jX/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see below, Deborah leads a riveting lightening talk on entrepreneurship where she spoke about her current startup, as well as her days working for The New York Times.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #CodeWeek #CodeWeekEU #Amsterdam #tech #edtech&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uLu6MsF-kR/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;While Dan used &lt;a href=&#39;http://littlebits.cc&#39;&gt;Littlebits&lt;/a&gt;, and the &lt;a href=&#39;http://www.makeymakey.com&#39;&gt;MakeyMakey&lt;/a&gt; hardware kits to really wow the students with light-up, sound, and super circuit-power effects! &lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #EUCodeWeek #CodeWeek #CodeWeekEU #edtech #tech #coding #Amsterdam&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uLvUi8l-k_/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Erika, our Head of Communications at the International School of Amsterdam, gave a presentation on the use of code in Marketing. The kids were especially impressed when she used the Inspect Element tool to look inside the ISA webpage to view the source code.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #CodeWeek #CodeWeekEU event in #Amsterdam&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uLub3vl-ja/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Alvin shared his expertise in creative campaigns for social media, including his work from a super cool De Ruijters campaign in which he painstakingly arranged hagelslag on bread to recreate famous works of art.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #EUCodeWeek #CodeWeek #edtech #coding #Amsterdam&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uLwjB4F-mf/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Anouk Visser is a graduate student at the Universiteit van Amsterdam where she studies Artifical Intelligence. She is the main programmer on a project to save the rhinos. Anouk is writing an algorithm to detect poachers in images captured from a remote controlled drone. Next week Anouk travels to South Africa with her team to test the drone, and software on real rhinos, and potentially real poachers!&lt;/p&gt;
+
+&lt;p&gt;Behind Anouk you&amp;#39;ll see Richard Kraaijenhagen, Founder, and lead programmer for Owlin, an online newsroom that has been known to capture news faster than Bloomberg.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #CodeWeekEU #codeweek14 #CodeWeek #coding&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uSdzhHF-i4/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Wouter, ISA&amp;#39;s lead graphic designer, showed the students how to create digital images. Wouter is also well-known for his work with comics. Check out his series, &lt;a href=&quot;http://www.cptwayne.com&quot;&gt;The Adventures of Captain Wayne.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned data-instgrm-version=&quot;2&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt;&lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding-bottom:55%; padding-top:45%; text-align:center; width:100%;&quot;&gt;&lt;div style=&quot;position:relative;&quot;&gt;&lt;div style=&quot; -webkit-animation:dkaXkpbBxI 1s ease-out infinite; animation:dkaXkpbBxI 1s ease-out infinite; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-44px; width:44px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:12px; font-style:normal; font-weight:bold; position:relative; top:15px;&quot;&gt;Loading&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin:8px 0 0 0; padding:0 4px; word-wrap:break-word;&quot;&gt; #CodeWeek #codeweek14 #CodeWeekEU&lt;/p&gt;&lt;p style=&quot; line-height:32px; margin-bottom:0; margin-top:8px; padding:0; text-align:center;&quot;&gt; &lt;a href=&quot;https://instagram.com/p/uSek2PF-kA/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; text-decoration:none;&quot; target=&quot;_top&quot;&gt; View on Instagram&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;style&gt;@-webkit-keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} } @keyframes&amp;quot;dkaXkpbBxI&amp;quot;{ 0%{opacity:0.5;} 50%{opacity:1;} 100%{opacity:0.5;} }&lt;/style&gt;&lt;/blockquote&gt;&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;&lt;/h2&gt;
+
+&lt;h2&gt;&lt;/h2&gt;
+
+&lt;h2&gt;Personal branding allows you to manage how others perceive you&lt;/h2&gt;
+
+&lt;p&gt;Of course, one can just as easily create a positive trend online, by curating a positive brand image. Cultivating your personal brand&amp;#39;s presence online gives you a unique advantage as opposed to in-person communications. With online profiles, you have the unique advantage of editing your content, and strategically planning your personal brand.&lt;/p&gt;
+
+&lt;p&gt;Your online identity is crucial not only as a job-seeker, but also for employees of organizations. Proudly display your job title in your social media profiles, and tweet about the awesome things your company is doing. This is not only a way to show support to your organization, but also to get noticed by higher-ups. &lt;/p&gt;
+
+&lt;p&gt;Remember, it&amp;#39;s important to showcase relevant content for your audiences. You can easily filter your audiences on Facebook, and post specific messages to specific groups. Use hashtags to post messages to specific topics. With meaningful, and relevant content, you&amp;#39;ll keep your followers coming back for more, and hopefully attract even more new followers.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;/media/relevant_content.png&quot; alt=&quot;Are you sharing meaningful content to your various audiences? Remember, relevance is key.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Are you sharing meaningful content to your various audiences? Remember, relevance is key.&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h2&gt;Communicate your passions, and expertise&lt;/h2&gt;
+
+&lt;p&gt;Blogs, and social networking sites allow you to show others what you&amp;#39;re passionate about. Communicating in the online sphere also allows you to show your expertise in various fields. It may not be easy, but it is definitely worth it to try to climb the social ladder of the web. Go ahead and check your Klout score to see how you&amp;#39;re doing, and then plan some goals for the upcoming quarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here&amp;#39;s some easy examples:&lt;/strong&gt;
+-1. Increase my Twitter follower count by 300.
+-2. Write 1 blog post per week.
+-3. Increase my Facebook engagement &lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;/media/manage_perceptions.png&quot; alt=&quot;Do you want to be a thought-leader in technology, for example? Then, start pushing awesome tech content to show the world your expertise!&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Do you want to be a thought-leader in technology, for example? Then, start pushing awesome tech content to show the world your expertise!&lt;/blockquote&gt;&lt;/div&gt;
+
+&lt;h2&gt;Make connections based on interest&lt;/h2&gt;
+
+&lt;p&gt;One of the greatest advantages of social is the ability to connect with others. Sure, we&amp;#39;re all connected to friends and family on platforms like Facebook, but are you also using Twitter, and LinkedIn on a daily basis? These platforms allow you to connect with people that you may not know in real life. Now, that might sound a bit creepy to some, but digital natives know that this is where the true gold lies. Twitter, for example, gives you the opportunity to follow thought leaders in your spheres of interest, and LinkedIn will allow you to find friends of friends who may prove pivotal in helping you to land your next big gig. &lt;/p&gt;
+
+&lt;h2&gt;How to show respect online&lt;/h2&gt;
+
+&lt;p&gt;One of the hottest topics amongst my friends is whether or not it&amp;#39;s ok to text during dinner. Obviously, this is a very heated debate, but my opinion is that it is indeed ok to use your mobile device during a dinner, or event. In fact, I think it&amp;#39;s really respectful to do so. If I&amp;#39;m hanging out with a group of friends at a restaurant, my first thought is to use Foursquare to check everyone in. Then, I&amp;#39;m going to want to take a group selfie, and post it on Twitter, and also mention my friends who are on Twitter. If I&amp;#39;m having a really great time, I might even throw in an Instagram pic, or Vine for good measure. Nothing says, &amp;quot;You have my seal of approval&amp;quot; better than being proud to mention someone in your digital feeds.&lt;/p&gt;
+
+&lt;div&gt;&lt;img src=&quot;/media/selfies.png&quot; alt=&quot;Cross branding happens when you tag yourself with friends, or other thought leaders in your field.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Cross branding happens when you tag yourself with friends, or other thought leaders in your field.&lt;/blockquote&gt;&lt;/div&gt;
 
 &lt;h2&gt;Online etiquette &lt;em&gt;is&lt;/em&gt; digital reciprocity&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Make meaningful connections&lt;/li&gt;
-&lt;li&gt;Cultivate your online credibility&lt;/li&gt;
-&lt;li&gt;Connect others&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Just like the story about my mother that I shared earlier proved, it is important to reciprocate in online social spheres. Now, on the smallest scale that could mean liking a status update on Facebook, or commenting on a photo. In a larger sense it could mean reaching out to thought leaders on Twitter to interview them for blog posts, or connecting those in your network, who you know have mutual interests. By sharing your knowledge online, and helping others, you will curate your online credibility. In this way, it&amp;#39;s a win/win/win. Digital reciprocity is the new etiquette, and by learning these new online interaction techniques, you&amp;#39;ll find yourself always ahead of the trend.&lt;/p&gt;
 
-&lt;h2&gt;Quick tips for cultivating a professional online presence&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Tag others&lt;/li&gt;
-&lt;li&gt;Cite appropriately&lt;/li&gt;
-&lt;li&gt;Check in your friends&lt;/li&gt;
-&lt;li&gt;Encourage guest blogging&lt;/li&gt;
-&lt;li&gt;Remember that your posts are powerful, and public&lt;/li&gt;
-&lt;/ol&gt;
+&lt;div&gt;&lt;img src=&quot;/media/digital_reciprocity.png&quot; alt=&quot;Don&#39;t snub your friends, loyal followers, and various audiences. Tag them. Share the love.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Don&#39;t snub your friends, loyal followers, and various audiences. Tag them. Share the love.&lt;/blockquote&gt;&lt;/div&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Thinny 2: a Jekyll theme</title>
-   <link href="http://fiberopticnow.github.io/blog/test"/>
-   <updated>2014-02-07T00:00:00+01:00</updated>
-   <id>http://fiberopticnow.github.io/blog/test</id>
-   <content type="html">&lt;p&gt;Three months ago, I released an (unfinished) theme for Ghost 0.3: &lt;a href=&quot;http://github.com/camporez/Thinny&quot;&gt;Thinny 0.3&lt;/a&gt;, codename &amp;quot;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&amp;quot;.
-But now I&amp;#39;m migrating my blog to Jekyll, and also migrating the theme. With a brand new look, Thinny 2 also brings a lot of new features and polishment. Actually, it was completely remaked.&lt;/p&gt;
+   <title>Hashtagivist: The Hashtag Activism Platform</title>
+   <link href="http://fiberopticnow.github.io/blog/hashtagivist"/>
+   <updated>2014-04-28T00:00:00+02:00</updated>
+   <id>http://fiberopticnow.github.io/blog/hashtagivist</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;When my partner Richard and I joined the Kings of Code Hack Battle at the Next Web Europe Conference in Amsterdam last week, we knew that we wanted to make an app that would stand in stark contrast to the infamously misogynist &lt;a href=&quot;http://valleywag.gawker.com/techcrunch-disrupt-kicks-off-with-titstare-app-and-fa-1274394925&quot;&gt;&amp;quot;Tit staring app&amp;quot;&lt;/a&gt; from TechCrunch Disrupt last year. It&amp;#39;s about time that we change the &amp;quot;dude&amp;quot; culture of programming into a progressive group that builds apps for social change.  &lt;/em&gt;&lt;/p&gt;
 
-&lt;h1&gt;Thinny 2.0, codename &amp;quot;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&amp;quot;&lt;/h1&gt;
+&lt;h2&gt;The Kings of Code&lt;/h2&gt;
 
-&lt;p&gt;This new version of Thinny goes deeper with the &lt;a href=&quot;http://ghost-camporez.rhcloud.com/making-applications-icon-smaller-on-gnome-shells-top-panel/&quot;&gt;initial idea&lt;/a&gt; of a big image before the post. As the saying goes, &lt;cite&gt;a picture is worth a thousand words&lt;/cite&gt;, so we expanded the concept. I mean, literally. The post image (or video!) is now full width and full height, and can be easily add with the use of a variable.&lt;/p&gt;
+&lt;p&gt;The Kings of Code Hack Battle at The Next Web European Conference brought together over 30 teams of programmers, and designers to &amp;quot;hack&amp;quot; for 30 hours on new and inventive ideas. The API partners for this year included Spotify, SendGrid, Deezer, Twitter, Pearson, Spotify, Mashery, Verisign, Paypal, and Push.co. We decided to use the Twitter Streaming API, as well as the Paypal API for donations.&lt;/p&gt;
 
-&lt;h2&gt;Features&lt;/h2&gt;
+&lt;iframe src=&quot;//instagram.com/p/nI5THIF-hx/embed/&quot; width=&quot;612&quot; height=&quot;710&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;Lists and text formatting&lt;/h3&gt;
-
-&lt;p&gt;You can use various HTML tags:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As one of a handful of female participants, I felt even more passionate about pursuing our activist hack after being asked strangely discriminatory questions like:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+&lt;li&gt;&amp;quot;Are you hacking??&amp;quot;&lt;/li&gt;
+&lt;li&gt;&amp;quot;Oh, are you the designer?&amp;quot;&lt;/li&gt;
+&lt;li&gt;&amp;quot;Are you both working on this hack together??&amp;quot;&lt;/li&gt;
+&lt;li&gt;&amp;quot;I read your article for The Next Web Shift. Nice work. Is that how you got in here?&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Thinny&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Needless to say, women are still facing some serious stereotypes in the tech field, and it&amp;#39;s really up to all of us to work to shattering those stereotypes so that future hackathons will be much more diverse.&lt;/p&gt;
 
-&lt;h3&gt;Messages, code and images&lt;/h3&gt;
+&lt;h2&gt;Our Hack: Hashtagivist&lt;/h2&gt;
 
-&lt;div class=&quot;message&quot;&gt;This is a &lt;strong&gt;warning&lt;/strong&gt; message. Now, you can keep falling in love with this theme...&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.hashtagivist.com&quot;&gt;Hashtagivist&lt;/a&gt; stands for &amp;quot;Hashtag Activist&amp;quot; was inspired by the amazing work of &lt;a href=&quot;https://twitter.com/suey_park&quot;&gt;Suey Park&lt;/a&gt;,  &lt;a href=&quot;https://twitter.com/Karnythia&quot;&gt;Mikki Kendall&lt;/a&gt;, and other proponents for social change and equality on Twitter. &lt;/p&gt;
 
-&lt;p&gt;You can add &lt;code&gt;code elements&lt;/code&gt; with highlight support:
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/media/2014-01-22-thinny-2/bianca.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;100&amp;#37;&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Image captions are supported out of the box. Brilliant!&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;There are so many of us that believe in equality, and want to lobby for social change, but either aren&amp;#39;t that well-versed with Twitter, or have trouble finding hashtag campaigns. For me, I&amp;#39;d always catch campaigns after-the-fact via a blog post, and think to myself, &amp;quot;Gee, I wish I had seen that on Twitter when it was happening. I would have definitely retweeted, or taken action in some way.&amp;quot;&lt;/p&gt;
 
-&lt;p&gt;Will output this:&lt;/p&gt;
+&lt;p&gt;With Hashtagivist, campaign leaders can submit their hashtags to the site before they launch their campaign via Twitter. Then, they can track their hashtag stats on Hashtagivist, and gain wider exposure for their campaign. &lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;/media/2014-01-22-thinny-2/bianca.jpg&quot; alt=&quot;Image captions are supported out of the box. Brilliant!&quot; width=&quot;100%&quot; /&gt;
-&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Image captions are supported out of the box. Brilliant!&lt;/blockquote&gt;&lt;/div&gt;
+&lt;p&gt;Users can search the site by topic (more topics to come!), and receive email alerts as soon as a new hashtag campaign goes live in their areas of interest.&lt;/p&gt;
 
-&lt;h3&gt;Table&lt;/h3&gt;
+&lt;div&gt;&lt;img src=&quot;/media/hashtagivist2.png&quot; alt=&quot;Browse campaigns by topic, and take action!&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Browse campaigns by topic, and take action!&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;p&gt;Thinny also support html tag &lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;:
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Version&lt;/th&gt;
-      &lt;th&gt;Codename&lt;/th&gt;
-      &lt;th&gt;Platform&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra&quot;&gt;0.3&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Ghost 0.3.x&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v2.0-bianca&quot;&gt;2.0&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2.1&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;h2&gt;Watch our Pitch at The Next Web Hack Battle 2014&lt;/h2&gt;
 
-&lt;h3&gt;Mobile version&lt;/h3&gt;
+&lt;p&gt;In case the web player doesn&amp;#39;t load properly, our pitch starts at 1:26:00.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Coming soon...&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/J6l-qp6gJIk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h3&gt;Quote&lt;/h3&gt;
+&lt;h2&gt;Twitter API Winners&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Did you liked it? You can &lt;a href=&quot;https://github.com/camporez/Thinny/releases&quot;&gt;download Thinny on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;We were stoked to win the Twitter API prize at The Next Web Hack Battle for our work on Hashtagivist! We&amp;#39;re so enthused that Twitter liked our integration of their streaming API, as well as our idea to broaden the audience for social justice hashtag campaigns on Twitter.&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;iframe src=&quot;//instagram.com/p/nP8XPmKE82/embed/&quot; width=&quot;612&quot; height=&quot;710&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/camporez/camporez.github.io/issues/new&quot;&gt;Open an issue&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;We&amp;#39;d love to hear your thoughts!&lt;/h2&gt;
+
+&lt;p&gt;Although this started out as a fun hack for a hackathon, we feel that this site may be beneficial to hashtag activists on Twitter, including non-profits, organizations, and individual activists. Please let us know what you think of our site in the comments below, and please give us feedback. This platform was built for you, so we&amp;#39;d love to optimize it based on your needs. Thanks!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Thinny 2: a Jekyll theme</title>
-   <link href="http://fiberopticnow.github.io/blog/thinny-2"/>
-   <updated>2014-01-22T00:00:00+01:00</updated>
-   <id>http://fiberopticnow.github.io/blog/thinny-2</id>
-   <content type="html">&lt;p&gt;Three months ago, I released an (unfinished) theme for Ghost 0.3: &lt;a href=&quot;http://github.com/camporez/Thinny&quot;&gt;Thinny 0.3&lt;/a&gt;, codename &amp;quot;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&amp;quot;.
-But now I&amp;#39;m migrating my blog to Jekyll, and also migrating the theme. With a brand new look, Thinny 2 also brings a lot of new features and polishment. Actually, it was completely remaked.&lt;/p&gt;
+   <title>Digital reciprocity is the new etiquette</title>
+   <link href="http://fiberopticnow.github.io/blog/digitaletiquette"/>
+   <updated>2014-04-28T00:00:00+02:00</updated>
+   <id>http://fiberopticnow.github.io/blog/digitaletiquette</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;I gave my mother an iPad for Mothers Day a few years ago to which she sighed, &amp;quot;What on earth am I going to do with one of &lt;em&gt;these&lt;/em&gt; things?&amp;quot; Since then, her digital capabilities have drastically increased. In fact, just the other day she exclaimed, &amp;quot;You know, none of my friends on Facebook commented on my new pictures. I just can&amp;#39;t believe it!&amp;quot; Given this example, one can see that even baby-blooming late adopters to the digital revolution inherently understand the underlying etiquette subtly present in online communications. And, liking your friends&amp;#39; Facebook posts is just the tip of the iceberg. In today&amp;#39;s high-tech world, it is vital to maintain an online presence, and take actions that add value to others, and to yourself. Afterall, as my now tech-savvy mom says, &amp;quot;Good manners work everywhere...even in cyberspace.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 
-&lt;h1&gt;Thinny 2.0, codename &amp;quot;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&amp;quot;&lt;/h1&gt;
+&lt;h2&gt;Consider your online identity as an extension of your self&lt;/h2&gt;
 
-&lt;p&gt;This new version of Thinny goes deeper with the &lt;a href=&quot;http://ghost-camporez.rhcloud.com/making-applications-icon-smaller-on-gnome-shells-top-panel/&quot;&gt;initial idea&lt;/a&gt; of a big image before the post. As the saying goes, &lt;cite&gt;a picture is worth a thousand words&lt;/cite&gt;, so we expanded the concept. I mean, literally. The post image (or video!) is now full width and full height, and can be easily add with the use of a variable.&lt;/p&gt;
+&lt;p&gt;Depending on where you live, there are various social customs that are considered polite, or impolite. Take the southern states in the U.S., for example, where holding the door open is a chivalrous symbol of good manners. In the same vein, failing to follow online etiquette can be perceived as a virtual door-slam in the face.  So, consider your online identity as much &lt;em&gt;you&lt;/em&gt; as your in-person self, or maybe even moreso, because your digital fingerprint is in many ways eternal. If you don&amp;#39;t hold the door open for someone at a local restaurant, you&amp;#39;ve only snubbed one person&amp;#39;s feelings, with only a few bystanders noticing your uncouth act. However, if you fail to act appropriately online, you&amp;#39;ve now put your foot in your mouth in front of an audience of thousands, or even millions. Take this sobering tale as an example:&lt;/p&gt;
 
-&lt;h2&gt;Features&lt;/h2&gt;
+&lt;h2&gt;Online communications should be well thought-out, and incredibly polished.&lt;/h2&gt;
 
-&lt;h3&gt;Lists and text formatting&lt;/h3&gt;
+&lt;p&gt;Justine Sacco, a PR Director at InterActiveCorp, only had about 200 Twitter followers when she boarded a plane in London headed to South Africa in late 2013. Just before taking off, Ms. Sacco posted this infuriatingly offensive tweet:&lt;/p&gt;
 
-&lt;p&gt;You can use various HTML tags:&lt;/p&gt;
+&lt;div&gt;&lt;img src=&quot;/media/justine.png&quot; alt=&quot;Can you believe she was a PR Director? Faux-pas to the extreme.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Can you believe she was a PR Director? Faux-pas to the extreme.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;During her 11-hour flight, Ms. Sacco was oblivious to the number of responses she received to her racist tweet. Soon the hashtag #HasJustineLandedYet became a &lt;em&gt;worldwide trend&lt;/em&gt; on Twitter, as major news organizations like The New York Times, and CNN picked up the story. Justine Sacco&amp;#39;s name was tweeted more than 30,000 times, and the hashtag #HasJustineLandedYet was tweeted more than 100,000 times. &lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Thinny&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;So, the moral of the story? &lt;em&gt;Think before you hit send.&lt;/em&gt; And, that&amp;#39;s really the beauty of digital communications, and why digital communications should be more articulate than in-person communications. With digital speech, we get the power to edit our words before we showcase them to the world. That power is essential in building your personal brand.&lt;/p&gt;
 
-&lt;h3&gt;Messages, code and images&lt;/h3&gt;
+&lt;h2&gt;Personal branding allows you to manage how others perceive you&lt;/h2&gt;
 
-&lt;div class=&quot;message&quot;&gt;This is a &lt;strong&gt;warning&lt;/strong&gt; message. Now, you can keep falling in love with this theme...&lt;/div&gt;
+&lt;p&gt;Of course, one can just as easily create a positive trend online, by curating a positive brand image. Cultivating your personal brand&amp;#39;s presence online gives you a unique advantage as opposed to in-person communications. With online profiles, you have the unique advantage of editing your content, and strategically planning your personal brand.&lt;/p&gt;
 
-&lt;p&gt;You can add &lt;code&gt;code elements&lt;/code&gt; with highlight support:
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/media/2014-01-22-thinny-2/bianca.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;100&amp;#37;&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Image captions are supported out of the box. Brilliant!&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Your online identity is crucial not only as a job-seeker, but also for employees of organizations. Proudly display your job title in your social media profiles, and tweet about the awesome things your company is doing. This is not only a way to show support to your organization, but also to get noticed by higher-ups. &lt;/p&gt;
 
-&lt;p&gt;Will output this:&lt;/p&gt;
+&lt;p&gt;Remember, it&amp;#39;s important to showcase relevant content for your audiences. You can easily filter your audiences on Facebook, and post specific messages to specific groups. Use hashtags to post messages to specific topics. With meaningful, and relevant content, you&amp;#39;ll keep your followers coming back for more, and hopefully attract even more new followers.&lt;/p&gt;
 
-&lt;div&gt;&lt;img src=&quot;/media/2014-01-22-thinny-2/bianca.jpg&quot; alt=&quot;Image captions are supported out of the box. Brilliant!&quot; width=&quot;100%&quot; /&gt;
-&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Image captions are supported out of the box. Brilliant!&lt;/blockquote&gt;&lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;/media/relevant_content.png&quot; alt=&quot;Are you sharing meaningful content to your various audiences? Remember, relevance is key.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Are you sharing meaningful content to your various audiences? Remember, relevance is key.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;h3&gt;Table&lt;/h3&gt;
+&lt;h2&gt;Communicate your passions, and expertise&lt;/h2&gt;
 
-&lt;p&gt;Thinny also support html tag &lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;:
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Version&lt;/th&gt;
-      &lt;th&gt;Codename&lt;/th&gt;
-      &lt;th&gt;Platform&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra&quot;&gt;0.3&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Ghost 0.3.x&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v2.0-bianca&quot;&gt;2.0&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2.1&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;&lt;/p&gt;
+&lt;p&gt;Blogs, and social networking sites allow you to show others what you&amp;#39;re passionate about. Communicating in the online sphere also allows you to show your expertise in various fields. It may not be easy, but it is definitely worth it to try to climb the social ladder of the web. Go ahead and check your Klout score to see how you&amp;#39;re doing, and then plan some goals for the upcoming quarter.&lt;/p&gt;
 
-&lt;h3&gt;Mobile version&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Here&amp;#39;s some easy examples:&lt;/strong&gt;
+-1. Increase my Twitter follower count by 300.
+-2. Write 1 blog post per week.
+-3. Increase my Facebook engagement &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Coming soon...&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;&lt;img src=&quot;/media/manage_perceptions.png&quot; alt=&quot;Do you want to be a thought-leader in technology, for example? Then, start pushing awesome tech content to show the world your expertise!&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Do you want to be a thought-leader in technology, for example? Then, start pushing awesome tech content to show the world your expertise!&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;h3&gt;Quote&lt;/h3&gt;
+&lt;h2&gt;Make connections based on interest&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Did you liked it? You can &lt;a href=&quot;https://github.com/camporez/Thinny/releases&quot;&gt;download Thinny on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;One of the greatest advantages of social is the ability to connect with others. Sure, we&amp;#39;re all connected to friends and family on platforms like Facebook, but are you also using Twitter, and LinkedIn on a daily basis? These platforms allow you to connect with people that you may not know in real life. Now, that might sound a bit creepy to some, but digital natives know that this is where the true gold lies. Twitter, for example, gives you the opportunity to follow thought leaders in your spheres of interest, and LinkedIn will allow you to find friends of friends who may prove pivotal in helping you to land your next big gig. &lt;/p&gt;
 
-&lt;hr&gt;
+&lt;h2&gt;How to show respect online&lt;/h2&gt;
 
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/camporez/camporez.github.io/issues/new&quot;&gt;Open an issue&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Thinny 2: a Jekyll theme</title>
-   <link href="http://fiberopticnow.github.io/blog/test"/>
-   <updated>2014-01-22T00:00:00+01:00</updated>
-   <id>http://fiberopticnow.github.io/blog/test</id>
-   <content type="html">&lt;p&gt;Three months ago, I released an (unfinished) theme for Ghost 0.3: &lt;a href=&quot;http://github.com/camporez/Thinny&quot;&gt;Thinny 0.3&lt;/a&gt;, codename &amp;quot;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&amp;quot;.
-But now I&amp;#39;m migrating my blog to Jekyll, and also migrating the theme. With a brand new look, Thinny 2 also brings a lot of new features and polishment. Actually, it was completely remaked.&lt;/p&gt;
+&lt;p&gt;One of the hottest topics amongst my friends is whether or not it&amp;#39;s ok to text during dinner. Obviously, this is a very heated debate, but my opinion is that it is indeed ok to use your mobile device during a dinner, or event. In fact, I think it&amp;#39;s really respectful to do so. If I&amp;#39;m hanging out with a group of friends at a restaurant, my first thought is to use Foursquare to check everyone in. Then, I&amp;#39;m going to want to take a group selfie, and post it on Twitter, and also mention my friends who are on Twitter. If I&amp;#39;m having a really great time, I might even throw in an Instagram pic, or Vine for good measure. Nothing says, &amp;quot;You have my seal of approval&amp;quot; better than being proud to mention someone in your digital feeds.&lt;/p&gt;
 
-&lt;h1&gt;Thinny 2.0, codename &amp;quot;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&amp;quot;&lt;/h1&gt;
+&lt;div&gt;&lt;img src=&quot;/media/selfies.png&quot; alt=&quot;Cross branding happens when you tag yourself with friends, or other thought leaders in your field.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Cross branding happens when you tag yourself with friends, or other thought leaders in your field.&lt;/blockquote&gt;&lt;/div&gt;
 
-&lt;p&gt;This new version of Thinny goes deeper with the &lt;a href=&quot;http://ghost-camporez.rhcloud.com/making-applications-icon-smaller-on-gnome-shells-top-panel/&quot;&gt;initial idea&lt;/a&gt; of a big image before the post. As the saying goes, &lt;cite&gt;a picture is worth a thousand words&lt;/cite&gt;, so we expanded the concept. I mean, literally. The post image (or video!) is now full width and full height, and can be easily add with the use of a variable.&lt;/p&gt;
+&lt;h2&gt;Online etiquette &lt;em&gt;is&lt;/em&gt; digital reciprocity&lt;/h2&gt;
 
-&lt;h2&gt;Features&lt;/h2&gt;
+&lt;p&gt;Just like the story about my mother that I shared earlier proved, it is important to reciprocate in online social spheres. Now, on the smallest scale that could mean liking a status update on Facebook, or commenting on a photo. In a larger sense it could mean reaching out to thought leaders on Twitter to interview them for blog posts, or connecting those in your network, who you know have mutual interests. By sharing your knowledge online, and helping others, you will curate your online credibility. In this way, it&amp;#39;s a win/win/win. Digital reciprocity is the new etiquette, and by learning these new online interaction techniques, you&amp;#39;ll find yourself always ahead of the trend.&lt;/p&gt;
 
-&lt;h3&gt;Lists and text formatting&lt;/h3&gt;
-
-&lt;p&gt;You can use various HTML tags:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Thinny&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3&gt;Messages, code and images&lt;/h3&gt;
-
-&lt;div class=&quot;message&quot;&gt;This is a &lt;strong&gt;warning&lt;/strong&gt; message. Now, you can keep falling in love with this theme...&lt;/div&gt;
-
-&lt;p&gt;You can add &lt;code&gt;code elements&lt;/code&gt; with highlight support:
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;html&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;/media/2014-01-22-thinny-2/bianca.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;100&amp;#37;&amp;quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Image captions are supported out of the box. Brilliant!&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Will output this:&lt;/p&gt;
-
-&lt;div&gt;&lt;img src=&quot;/media/2014-01-22-thinny-2/bianca.jpg&quot; alt=&quot;Image captions are supported out of the box. Brilliant!&quot; width=&quot;100%&quot; /&gt;
-&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Image captions are supported out of the box. Brilliant!&lt;/blockquote&gt;&lt;/div&gt;
-
-&lt;h3&gt;Table&lt;/h3&gt;
-
-&lt;p&gt;Thinny also support html tag &lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;:
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Version&lt;/th&gt;
-      &lt;th&gt;Codename&lt;/th&gt;
-      &lt;th&gt;Platform&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra&quot;&gt;0.3&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://nikita2010.wikia.com/wiki/Alexandra_Udinov&quot;&gt;Alexandra&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Ghost 0.3.x&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/camporez/Thinny/releases/tag/v2.0-bianca&quot;&gt;2.0&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm&quot;&gt;Bianca&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2.1&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://lesmiserables.wikia.com/wiki/Cosette&quot;&gt;Cosette&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Jekyll&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;&lt;/p&gt;
-
-&lt;h3&gt;Mobile version&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Coming soon...&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3&gt;Quote&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Did you liked it? You can &lt;a href=&quot;https://github.com/camporez/Thinny/releases&quot;&gt;download Thinny on GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/camporez/camporez.github.io/issues/new&quot;&gt;Open an issue&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;&lt;img src=&quot;/media/digital_reciprocity.png&quot; alt=&quot;Don&#39;t snub your friends, loyal followers, and various audiences. Tag them. Share the love.&quot; width=&quot;100%&quot; /&gt;
+&lt;blockquote style=&quot;border-left: 10px solid #D5D5D5;&quot;&gt;Don&#39;t snub your friends, loyal followers, and various audiences. Tag them. Share the love.&lt;/blockquote&gt;&lt;/div&gt;
 </content>
  </entry>
  
