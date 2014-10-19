@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Get Inspired By Tech' Event for Europe Code Week at the International School of Amsterdam"
-image: ../../media/code.jpg
+image: /media/code.jpg
 dark: true
 video: false
 
