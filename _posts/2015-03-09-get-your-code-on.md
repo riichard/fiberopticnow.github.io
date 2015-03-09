@@ -20,7 +20,7 @@ video: false
 
 ## Understanding the current diversity problem in tech startups is a call to action for educators
 
-I've had the amazing opportunity to work both in the startup field, as well as in the classroom. For the past three years I have worked with educational startups, as well as a number of international startups doing freelance marketing. For me, I noticed the diversity gap in the tech sector almost immediately. Although many tech companies and startups are actively working to increase the number of women and people of color in their organizations, we still have a long way to go.
+I've had the amazing opportunity to work both in the startup field, as well as in the classroom. For the past three years I have worked with educational startups, as well as a number of international startups doing freelance marketing. For me, I noticed the diversity gap in the tech sector almost immediately. Although many tech companies and startups are actively working to increase the number of women and people of color in their organizations, we still have a long way to go..
 
 ---number of future jobs in tech from <a href="http://www.code.org">Code.org</a>
 
