@@ -4,18 +4,16 @@ title: "Get Your Code On Podcast with Dr. Will"
 image: /media/code.jpg
 dark: true
 video: false
-
-
 ---
 
-<em> I feel so honored to have been invited to join <a href="http://www.twitter.com/iamdrwill">Dr. Will Deyamport III's</a> educational podcast series to discuss the learning to code revolution in education, as well as how to ensure that all students have access to the high-paid tech careers of the future. Below are links to the Slideshare, as well as the recording of the podcast in case you missed the original airing.
+<em> I feel so honored to have been invited to join <a href="http://www.twitter.com/iamdrwill">Dr. Will Deyamport III's</a> educational podcast series to discuss the learning to code revolution in education, as well as how to ensure that all students have access to the high-paid tech careers of the future. Below are links to the Slideshare, as well as the recording of the podcast in case you missed the original airing.</em>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/45548917" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/KatieWilliams17/get-your-code-on-empowering-all-students-through-computer-science-in-the-classroom" title="Get Your Code On: Empowering All Students Through Computer Science in the Classroom" target="_blank">Get Your Code On: Empowering All Students Through Computer Science in the Classroom</a> </strong> from <strong><a href="//www.slideshare.net/KatieWilliams17" target="_blank">Katie Williams</a></strong> </div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Ltky5wDK_s" frameborder="0" allowfullscreen></iframe>
 
-</em>
+
 
 
 ## Understanding the current diversity problem in tech startups is a call to action for educators
